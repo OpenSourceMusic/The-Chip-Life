@@ -5,6 +5,6 @@ Genre - Chiptune
 
 Current Song Version: 1.0
 
-License: [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
+License: [CC-BY](http://creativecommons.org/licenses/by/4.0/) (Creative Commons Attribution 4.0 International)
 
-About me: [PennPierson.com](http://pennpierson.com/about.php)
+About me: [PennPierson.com](http://pennpierson.com/)
