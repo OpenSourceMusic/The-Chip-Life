@@ -1,6 +1,9 @@
 # The-Chip-Life
 Genre - Chiptune
 
+Song Name: The Chip Life
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=gVh3ILZEoTE&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU&index=18)
 
 Current Song Version: 1.0
